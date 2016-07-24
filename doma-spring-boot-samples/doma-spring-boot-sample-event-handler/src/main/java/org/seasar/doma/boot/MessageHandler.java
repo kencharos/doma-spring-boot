@@ -1,6 +1,6 @@
 package org.seasar.doma.boot;
 
-import org.seasar.doma.boot.event.DomaEventHandler;
+import org.seasar.doma.boot.event.annotation.DomaEventHandler;
 import org.seasar.doma.boot.event.annotation.HandlePreInsert;
 
 import java.time.LocalDate;

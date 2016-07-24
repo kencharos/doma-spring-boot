@@ -1,4 +1,4 @@
-package org.seasar.doma.boot.event;
+package org.seasar.doma.boot.event.annotation;
 
 import org.springframework.stereotype.Component;
 
